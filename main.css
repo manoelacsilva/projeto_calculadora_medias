@@ -58,6 +58,10 @@ form button {
     padding: 8px;
 }
 
+form button:hover {
+    background-color: #0bb142;
+}
+
 table {
     width: 100%;
 }
